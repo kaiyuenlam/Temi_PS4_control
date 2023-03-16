@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PS4 Controller</string>
+    <string name="bluetooth_button">Pair Controller via Bluetooth</string>
+</resources>
